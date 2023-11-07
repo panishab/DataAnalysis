@@ -1,16 +1,16 @@
 ## Analyzing Sales Data
 # Dataset:
-Use the Walmart Sales Dataset available on Kaggle for this project that contains the following variables:
-Store - the store number
-Date - the week of sales
-Holiday - whether the week is a special holiday week or not
-Temperature - the average temperature in the region during the week
-Fuel_Price - the cost of fuel in the region during the week
-MarkDown1-5 - anonymized data related to promotional markdown events
-CPI - the consumer price index in the region
-Unemployment - the unemployment rate in the region
-IsHoliday - whether the week is a holiday week or not
-Weekly_Sales - the sales for the given store and date
+Use the Walmart Sales Dataset available on Kaggle for this project that contains the following variables:<br>
+Store - the store number <br>
+Date - the week of sales <br>
+Holiday - whether the week is a special holiday week or not <br>
+Temperature - the average temperature in the region during the week <br>
+Fuel_Price - the cost of fuel in the region during the week <br>
+MarkDown1-5 - anonymized data related to promotional markdown events <br>
+CPI - the consumer price index in the region <br>
+Unemployment - the unemployment rate in the  <br>
+IsHoliday - whether the week is a holiday week or not <br>
+Weekly_Sales - the sales for the given store and date<br>
 
 ##  Solve the Data Analysis questions like:
 What was the Total weekly Sales generated in  datasets?
