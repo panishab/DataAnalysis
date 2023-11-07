@@ -18,3 +18,6 @@ What was the Total weekly Sales when the temperature was low and high?
 What was the Total weekly Sales  at holiday time ?
 Which store has highest weekly sales?
 How unemployemt rate vary to weekly sales?
+
+## Notes
+This project is solely focused on honing MySQL skills through the application of straightforward queries and subqueries, showcasing proficiency in fundamental SQL operations.
